@@ -1,0 +1,9 @@
+TUM Information Systems - Summer Semester 2026
+
+Course: Introduction to Databases
+- Midterm Exam: July 15, 2026 (Covers SQL and Normalization)
+- Final Project Submission: August 1, 2026
+
+Course: Enterprise Architecture
+- Presentation: July 20, 2026
+- Final Exam: August 10, 2026
