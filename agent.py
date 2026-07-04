@@ -41,4 +41,3 @@ if __name__ == "__main__":
     response = chat_session.send_message("Review my upcoming deadlines in the syllabus and make a quick study plan.")
     
     print(response.text)
-    print("\n✅ Done! Ready for your video recording.")
